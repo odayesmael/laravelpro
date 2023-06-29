@@ -1,0 +1,1 @@
+<img src="{{asset('logo/logoapplight.png')}}" width="100px">
